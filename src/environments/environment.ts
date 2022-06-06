@@ -1,6 +1,6 @@
 import { Environment } from '@abp/ng.core';
 
-const baseUrl = 'https://shimmering-biscotti-969be0.netlify.app';
+const baseUrl = 'https://stunning-beignet-b07c62.netlify.app';
 
 export const environment = {
   production: true,
@@ -10,7 +10,7 @@ export const environment = {
     logoUrl: '',
   },
   oAuthConfig: {
-    issuer: 'http://wakim04-001-site1.itempurl.com',
+    issuer: 'http://khalidanta-001-site1.dtempurl.com',
     redirectUri: baseUrl,
     clientId: 'BookStore_App',
     responseType: 'code',
@@ -19,7 +19,7 @@ export const environment = {
   },
   apis: {
     default: {
-      url: 'http://wakim04-001-site1.itempurl.com',
+      url: 'http://khalidanta-001-site1.dtempurl.com',
       rootNamespace: 'Acme.BookStore',
     },
   },
